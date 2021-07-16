@@ -1,4 +1,4 @@
-# sergeydubininn
+# Test Vue
 
 ## Project setup
 ```
